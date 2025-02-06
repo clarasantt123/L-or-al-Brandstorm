@@ -11,14 +11,12 @@
             "id": "cf9b56a1c8e67481",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Arquivos.md",
-                "mode": "source",
-                "source": false
+                "file": "Unhide your strength/Archives L'oréal/mission.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Arquivos"
+              "icon": "lucide-file-text",
+              "title": "mission"
             }
           }
         ]
@@ -166,13 +164,25 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "cf9b56a1c8e67481",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Unhide your strength/Challenge/Project - Mission (conflict 2025-02-05-15-13-20).excalidraw.md",
+    "Unhide your strength/Challenge/Project_Mission_Optimized.excalidraw",
+    "Unhide your strength/Challenge/Project_Mission_Optimized (2).excalidraw",
     "Arquivos.md",
+    "Unhide your strength/Challenge/Project - Mission.md",
+    "Unhide your strength/Archives L'oréal/Pasted Image 20250205110906_299.png",
+    "Unhide your strength/Archives L'oréal/Pasted Image 20250205110738_584.png",
+    "Unhide your strength/Archives L'oréal/mission.pdf",
+    "Unhide your strength/Archives L'oréal/MISSION DOCUMENT 2025 - Jan 2025 update (2).docx.pdf",
+    "Unhide your strength/Challenge",
+    "Unhide your strength/Archives L'oréal",
+    "Unhide your strength",
+    "Untitled.md",
     "desktop.ini"
   ]
 }
