@@ -11,12 +11,10 @@
             "id": "cf9b56a1c8e67481",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Unhide your strength/Archives L'oréal/mission.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "mission"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -168,18 +166,23 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "cf9b56a1c8e67481",
+  "active": "d2cf1f6461a44cbf",
   "lastOpenFiles": [
+    "Articles",
     "Unhide your strength/Challenge/Project - Mission (conflict 2025-02-05-15-13-20).excalidraw.md",
+    "Unhide your strength/Mission/Project - Mission (conflict 2025-02-05-15-13-20).md",
+    "Challenge/Project - Mission.md",
+    "Unhide your strength/Challenge/Project - Mission.md",
+    "Challenge",
+    "open.url",
+    "Unhide your strength/Archives L'oréal/Pasted Image 20250205110906_299.png",
+    "Unhide your strength/Archives L'oréal/Pasted Image 20250205110738_584.png",
+    "Unhide your strength/Archives L'oréal/MISSION DOCUMENT 2025 - Jan 2025 update (2).docx.pdf",
+    "Unhide your strength/Archives L'oréal/mission.pdf",
     "Unhide your strength/Challenge/Project_Mission_Optimized.excalidraw",
     "Unhide your strength/Challenge/Project_Mission_Optimized (2).excalidraw",
     "Arquivos.md",
-    "Unhide your strength/Challenge/Project - Mission.md",
-    "Unhide your strength/Archives L'oréal/Pasted Image 20250205110906_299.png",
-    "Unhide your strength/Archives L'oréal/Pasted Image 20250205110738_584.png",
-    "Unhide your strength/Archives L'oréal/mission.pdf",
-    "Unhide your strength/Archives L'oréal/MISSION DOCUMENT 2025 - Jan 2025 update (2).docx.pdf",
-    "Unhide your strength/Challenge",
+    "Unhide your strength/Mission",
     "Unhide your strength/Archives L'oréal",
     "Unhide your strength",
     "Untitled.md",
