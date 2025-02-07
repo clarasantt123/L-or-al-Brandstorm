@@ -11,10 +11,12 @@
             "id": "cf9b56a1c8e67481",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-02-06 21.31.16.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-02-06 21.31.16.excalidraw"
             }
           }
         ]
@@ -168,6 +170,8 @@
   },
   "active": "cf9b56a1c8e67481",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-02-06 21.31.16.excalidraw.md",
+    "Excalidraw",
     "Articles",
     "Unhide your strength/Challenge/Project - Mission (conflict 2025-02-05-15-13-20).excalidraw.md",
     "Unhide your strength/Mission/Project - Mission (conflict 2025-02-05-15-13-20).md",
@@ -184,8 +188,6 @@
     "Arquivos.md",
     "Unhide your strength/Mission",
     "Unhide your strength/Archives L'oréal",
-    "Unhide your strength",
-    "Untitled.md",
-    "desktop.ini"
+    "Untitled.md"
   ]
 }
